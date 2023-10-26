@@ -1,3 +1,3 @@
 # Flight-Management-System
-### It is a group project and 5 mwmbers were included in the group.
+### It is a group project and 5 members were included in the group.
 
